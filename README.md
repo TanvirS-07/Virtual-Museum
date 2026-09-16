@@ -14,6 +14,9 @@ Visitors explore a museum-themed 3D hub, stepping through interactive portals in
 > can provide reviewer access on request — feel free to reach out at 
 > tanvirsingh364@gmail.com.
 
+## Commit History
+[View screenshots](screenshots/)
+
 ## Project Showcase
 ### Gameplay Walkthrough
 The walkthrough below demonstrates real-time player navigation, ambient lighting setups, UI interactions, and seamless transitions between historical gaming eras.
