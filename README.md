@@ -4,6 +4,16 @@ An interactive, first-person 3D museum exhibit exploring the major historical mi
 
 Visitors explore a museum-themed 3D hub, stepping through interactive portals into dedicated historical exhibits featured with contextual plaques, authentic aesthetic design, and interactive media.
 
+> **Note:** This was a group project (5-person Agile team) built during 
+> a Macquarie University industry placement (PACE) for a real client — 
+> the Waranara Library Exhibition. I was one of two programmers and led 
+> documentation for the team. This repo reflects my individual copy of 
+> the final shipped project.
+>
+> The original team repository is private. I'm a collaborator on it and 
+> can provide reviewer access on request — feel free to reach out at 
+> tanvirsingh364@gmail.com.
+
 ## Project Showcase
 ### Gameplay Walkthrough
 The walkthrough below demonstrates real-time player navigation, ambient lighting setups, UI interactions, and seamless transitions between historical gaming eras.
